@@ -1,0 +1,93 @@
+
+body{
+    background-color:pink;
+    /* background-image: url("07.jpg"); */
+    background: url("07.jpg")no-repeat center center/cover;
+ 
+}
+.back{
+    
+}
+.heading{
+    font-weight: bold;
+    font-size:xx-large;
+    text-decoration: underline;
+}
+
+.places{
+    font-size: larger;
+}
+.places a{
+    color: rgb(56, 54, 54);
+}
+.para1 span{
+    color: black;
+    font-size: x-large;
+}
+.para1{
+    color: rgb(56, 53, 53);
+    padding-right: 50%;
+    font-size: 120%;
+}
+.para span{
+    font-size: medium;
+    color: black;
+
+}
+.place1{
+    font-size:larger;
+    padding-right:50% ;
+}
+.place1 span{
+    text-decoration: underline;
+    font-size: xx-large;
+}
+.place2{
+    font-size:larger;
+    padding-right:50% ;
+}
+.place2 span{
+    text-decoration: underline;
+    font-size: xx-large;
+
+}
+.place3{
+    font-size:larger;
+    padding-right:50% ;
+}
+.place3 span{
+    text-decoration: underline;
+    font-size: xx-large;
+}
+.place4{
+    font-size:larger;
+    padding-right:50% ;
+}
+.place4 span{
+    text-decoration: underline;
+    font-size: xx-large;
+}
+.place5{
+    font-size:larger;
+    padding-right:50% ;
+}
+.place5 span{
+    text-decoration: underline;
+    font-size: xx-large;
+}
+.place6{
+    font-size:larger;
+    padding-right:50% ;
+}
+.place6 span{
+    text-decoration: underline;
+    font-size: xx-large;
+}
+.place7{
+    font-size:larger;
+    padding-right:50% ;
+}
+.place7 span{
+    text-decoration: underline;
+    font-size: xx-large;
+}

@@ -1,0 +1,8 @@
+body{
+    background-color: rgb(190, 119, 155);
+}
+.name{
+    font-style: italic;
+    font-size: xx-large;
+    text-decoration: underline;
+}
